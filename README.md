@@ -30,7 +30,7 @@ You must grant Full Disk Access to your Terminal or iTerm application:
 ### Step 4: Get Gemini API Key
 
 Get your free Gemini API key from:
-[https://aistudio.google.com/apikey](https://aistudio.google.com/apikey)
+https://youtu.be/yZN5a12CZD8?si=0L1kHZL1J-gqgr47
 
 ### Step 5: Download the Skill
 
