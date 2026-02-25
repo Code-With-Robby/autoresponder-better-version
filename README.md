@@ -1,6 +1,6 @@
 
 # iMessage Auto-Responder Setup Guide
-
+FULL STEP BY STEP WALKTHROUGH: https://youtu.be/Bi3z2tMPjxs?si=-uyGBtecRYpoXeDR
 ## Prerequisites
 
 ### Step 1: macOS Requirements
